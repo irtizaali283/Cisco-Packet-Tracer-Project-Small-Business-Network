@@ -12,7 +12,7 @@ DEVICES USED:
 •	Printers, Laptops, Pc’s, Access point, Tablets & Smartphones.
 
 REQUIREMENTS:
-•	3 departments (Admin/IT, Finance/HR and Customer service/Reception).
+•	3 departments (Admin, Finance and Reception).
 •	Each department is required to be in different Vlans.
 •	Each department is required to have a wireless network for the users.
 •	Host devices in the network are required to obtain IPv4 address automatically.
