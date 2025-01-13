@@ -1,9 +1,9 @@
 # Cisco_Packet_Tracer_Project
 DCCN PROJECT FOR SMALL BUSSINESS NETWORK
 
-This Project Based on Folowing:
+This Project is Based on Folowing:
 1. Vlans 
-2. Inter-Vlans
+2. Inter-Vlan
 3. Dhcp
 
 DEVICES USED:
