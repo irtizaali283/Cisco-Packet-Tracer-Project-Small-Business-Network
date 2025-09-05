@@ -4,7 +4,7 @@ DCCN PROJECT FOR SMALL BUSSINESS NETWORK
 This Project is Based on Folowing:
 1. Vlans 
 2. Inter-Vlan
-3. Dhcp
+3. DHCP
 
 DEVICES USED:
 •	One router and one switch to be used.
